@@ -34,6 +34,6 @@ export default {
 
 <style>
 .table{
-  padding: 30px;
+  padding: 40px;
 }
 </style>
