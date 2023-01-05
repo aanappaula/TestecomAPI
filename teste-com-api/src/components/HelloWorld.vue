@@ -33,7 +33,5 @@ export default {
 </script>
 
 <style>
-.table{
-  padding: 30px;
-}
+
 </style>
